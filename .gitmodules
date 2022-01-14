@@ -1,0 +1,3 @@
+[submodule "ESP32-CAM/count_insects"]
+	path = ESP32-CAM/count_insects
+	url = https://github.com/Gsarant/count_insects
