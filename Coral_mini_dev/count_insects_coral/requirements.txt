@@ -1,9 +1,0 @@
-###### Requirements without Version Specifiers ######
-logs
-tensorflow
-numpy
-opencv-python
-cv2
-picamera
-requests
-###### Requirements with Version Specifiers ######
